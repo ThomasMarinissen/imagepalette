@@ -1,6 +1,16 @@
 {
   "name": "th/imagepalette",
+  "type": "library",
+  "version": "1.0.0",
   "description": "Small library to extract the most common colors from an image",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Thomas Marinissen",
+      "email": "tmarinissen@gmail.com",
+      "role": "Developer"
+    }
+  ],
   "require": {
     "php": ">=5.3.0",
     "ext-imagick": "*"
